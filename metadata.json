@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix MedResilience AI",
+  "description": "AI-Powered Smart Health \u0026 Medical Supply Chain Resilience Platform for real-time medicine demand forecasting, stock-out risk prevention, redistribution, and digital twin disruption simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
